@@ -11,5 +11,5 @@ A simple calculator built using Python that handles basic arithmetic operations 
 This Python project creates strong, secure passwords using random combinations of letters, digits, and special characters. Ideal for improving digital security and practicing string manipulation and the `random` module.
 
 ### 3. Rock-Paper-Scissors Game ✊📄✂️
-An interactive command-line game where a user plays against the computer. This project blends conditionals, and randomness for a playful coding experience.
+An interactive command-line game where a user plays against the computer. This project blends conditionals and randomness for a playful coding experience.
 
