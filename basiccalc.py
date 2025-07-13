@@ -8,7 +8,7 @@ def calc(a,b,ch):
     elif ch=="4":
         print("Division is:",a/b)
     else:
-        print("You entered invaild opertor")
+        print("You entered invaild operator")
 def main():
     while True:
         print("1.Sum")
